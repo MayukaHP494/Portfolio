@@ -379,17 +379,6 @@ const projectDocuments = {
         title: "Automated Drain Cleaning Robot",
         driveLink: "https://drive.google.com/drive/folders/1VogDzS4ky_MCPgTyE3J7z0ZJANwbaUJp?usp=sharing", // Replace with your actual Google Drive link
         description: "Technical specifications, circuit diagrams, programming code, and testing documentation."
-    },
-    project4: {
-        title: "CFD Analysis Projects",
-        driveLink: "https://drive.google.com/drive/folders/11kXytzbPQxLj_cK-s3_YBBJCAvoT20z5?usp=sharing", // Replace with your actual Google Drive link
-        description: "Brief description of what documents are included in this project folder."
-    },
-    project5: {
-        title: "3D-Modeling Projects",
-        driveLink: "https://drive.google.com/drive/folders/1o3SYSZci5ugZWzVySRDQlKRhABg7WEnn?usp=sharing", // Replace with your actual Google Drive link
-        description: "Brief description of what documents are included in this project folder."
-    
     }
 };
 

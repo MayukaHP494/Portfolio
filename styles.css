@@ -385,6 +385,11 @@ section {
     transition: transform 0.3s ease;
 }
 
+.project-image > a {
+    display: block;
+    height: 100%;
+}
+
 .project-card:hover .project-image img {
     transform: scale(1.05);
 }
